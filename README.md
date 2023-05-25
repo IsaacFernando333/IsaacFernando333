@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsaacFernando333
 - 👀 I’m interested in... learn
-- 🌱 I’m currently learning... python, html and css
-- 💞️ I’m looking to collaborate on...
+- 🌱 I’m currently learning... python, and Front-End
+- 💞️ I’m looking to collaborate on... Every thing that I'm able to do
 - 📫 How to reach me... isaacfernandonovo@gmail.com
 
 <!---
