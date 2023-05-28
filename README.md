@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacFernando333
-- 👀 I’m interested in... learn
-- 🌱 I’m currently learning... python, and Front-End
+- 👀 I’m interested in... being a decent programer
+- 🌱 I’m currently learning... python, and pront-end and a bit of back-end
 - 💞️ I’m looking to collaborate on... Every thing that I'm able to do
 - 📫 How to reach me... isaacfernandonovo@gmail.com
 
